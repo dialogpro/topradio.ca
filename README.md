@@ -174,3 +174,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Django for making web development easier.
 - Various radio stations and music services that inspire this project.
+
+## Contacts
+
+- **CTO:** Mykhaylo Pavlov
+- **Email:** [pavlov.mykhaylo@gmail.com](mailto:pavlov.mykhaylo@gmail.com)
